@@ -1,2 +1,2 @@
 # Calculator
-![GITHUB](/image/icons.icns)
+![GITHUB](Calculator/Calculator/image/icons.icns)
