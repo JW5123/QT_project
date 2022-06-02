@@ -1,2 +1,2 @@
 # Calculator
-![GITHUB](https://github.com/QT_project/Calculator/Calculator/image/icons.icns)
+![GITHUB](https://github.com/JW5123/QT_project/Calculator/Calculator/image/icons.icns)
